@@ -1,0 +1,10 @@
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\obj\Release\ResolveAssemblyReference.cache
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\obj\Release\GoogleChromeBookmark.AboutBox.resources
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\obj\Release\GoogleChromeBookmark.Form1.resources
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\obj\Release\GoogleChromeBookmark.Properties.Resources.resources
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\obj\Release\GoogleChromeBookmark.csproj.GenerateResource.Cache
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\bin\Release\System.Data.SQLite.DLL
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\bin\Release\ChromeBookmarkExporter.exe
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\bin\Release\ChromeBookmarkExporter.pdb
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\obj\Release\ChromeBookmarkExporter.exe
+E:\LINQ\GoogleChromeBookmark\GoogleChromeBookmark\obj\Release\ChromeBookmarkExporter.pdb
